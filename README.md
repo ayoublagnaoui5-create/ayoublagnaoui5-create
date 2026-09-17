@@ -8,6 +8,6 @@
 
 
 * 🏆 **Python Developer** – Sololearn  
-  [![Sololearn Certificate](https://github.com/user-attachments/assets/586097ec-1d89-4398-b4e9-882031a48316)](https://www.sololearn.com/certificates/CC-7H2PTYVU)[cite: 2]
+  [![Sololearn Certificate](https://github.com/user-attachments/assets/586097ec-1d89-4398-b4e9-882031a48316)](https://www.sololearn.com/certificates/CC-7H2PTYVU)
 
 
